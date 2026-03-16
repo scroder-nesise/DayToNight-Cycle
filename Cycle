@@ -10,7 +10,7 @@ local TweenService = game:GetService("TweenService")
 --  CONFIGURATION
 -- ============================================================
 
-local CYCLE_DURATION  = 480   -- total seconds for one full day (8 min). Adjust freely.
+local CYCLE_DURATION  = 420   -- total seconds for one full day (7 min). Adjust freely.
 local TWEEN_TIME      = 6     -- seconds to blend between phases (transition smoothness)
 
 -- ============================================================
